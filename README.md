@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/jainrocky">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainrocky&theme=dark&hide_langs_below=1&hide=Jupyter%20%Notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainrocky&theme=dark&hide_langs_below=1&hide=Jupyter%20%Notebook, html" />
 </a>
 
 
