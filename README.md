@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </a>
 
 
-<a href="https://github.com/jainrocky/Computer-Graphics">
+<a href="https://jainrocky.github.io/Computer-Graphics/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jainrocky&repo=Computer-Graphics&theme=dark" />
 </a>
 
