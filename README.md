@@ -19,14 +19,6 @@ Here are some ideas to get you started:
 [![website](https://img.shields.io/badge/RockyJain-Me-000?style=flat-square&logo=google-chrome)](http://rocky-jain.herokuapp.com/)
 
 
-<a href="https://github.com/jainrocky">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jainrocky&show_icons=true&theme=dark" />
-</a>
-
-<a href="https://github.com/jainrocky">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainrocky&theme=dark&hide_langs_below=1&hide=Jupyter%20%Notebook, html" />
-</a>
-
 
 <a href="https://github.com/jainrocky/UrbanSoundClassification">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jainrocky&repo=UrbanSoundClassification&theme=dark" />
