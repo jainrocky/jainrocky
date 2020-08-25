@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![website](https://img.shields.io/badge/RockyJain-Me-000?style=flat-square&logo=google-chrome)](http://rocky-jain.herokuapp.com/)
+[![website](https://img.shields.io/badge/RockyJain-Me-000?style=flat-square&logo=google-chrome)](https://jainrocky.github.io/)
 
 
 
